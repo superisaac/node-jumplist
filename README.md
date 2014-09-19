@@ -5,11 +5,14 @@ Yet another implement of skiplist in nodejs
 
 Install
 ========
-
+```
+npm install jumplist
+```
 
 Examples
 ========
 ```
+var JumpList = require('jumplist');
 var list = new JumpList();
 list.set('a', 5);
 list.set('b', 6);
