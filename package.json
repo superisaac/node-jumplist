@@ -1,0 +1,27 @@
+{
+  "name": "jumplist",
+  "version": "0.1.0",
+  "description": "Yet another implementation of skiplist datastructure",
+  "main": "jumplist.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/superisaac/node-jumplist.git"
+  },
+  "keywords": [
+    "skiplist",
+    "data",
+    "structure"
+  ],
+  "author": "Zeng Ke",
+  "license": "PUBLIC",
+  "bugs": {
+    "url": "https://github.com/superisaac/node-jumplist/issues"
+  },
+  "homepage": "https://github.com/superisaac/node-jumplist"
+}
